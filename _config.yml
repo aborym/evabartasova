@@ -1,8 +1,8 @@
-title:            Vaše online 
-description:      Hledáte někoho kdo vám pomůže s účetnictvím rychle a jednoduše? Našli jste!
+title:            Ing. Eva Bartasová 
+description:      Management firemních financí
 logo:             site-logo.png
 disqus_shortname: 
-search:           true
+search:           false
 # Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://evabartasova.cz
 
@@ -34,10 +34,14 @@ bing_verify:
 links:
   - title: O mně
     url: /o-mne/
-  - title: Blog
-    url: /blog/
   - title: Služby
     url: /sluzby/
+  - title: Ceník
+    url: /cenik/
+  - title: Kontakt
+    url: /kontakt/
+  - title: Blog
+    url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Prague

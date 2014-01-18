@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /about/
+permalink: /o-mne/
 title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
-modified: 2013-09-13
+modified: 2013-01-18
+tags: [ucetnictvi, sluzby, zpracovani dani, finance]
 image:
   feature: so-simple-sample-image-4.jpg
   credit: Michael Rose
@@ -28,6 +28,4 @@ Looking for a simple, responsive, theme for your Jekyll powered blog? Well look 
 * [Grunt build script]({{ site.url }}/theme-setup/index.html#theme-development) for easier theme development.
 * [Sitemap](https://github.com/mmistakes/so-simple-theme/blob/master/sitemap.xml) for search engines
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+<a markdown="0" href="{{ site.url }}/kontakt" class="btn">Kontaktujte mně</a>
