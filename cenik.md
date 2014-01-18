@@ -6,8 +6,8 @@ modified: 2013-01-18
 tags: [ucetnictvi, sluzby, zpracovani dani, finance]
 ---
 
- * Konzultace – minimální cena za 600,00 CZK, při větším rozsahu 600,00 CZK za každou další započatou  hodinu.
- * Daňová přiznání:
+ * **Konzultace** – minimální cena za 600,00 CZK, při větším rozsahu 600,00 CZK za každou další započatou  hodinu.
+ * **Daňová přiznání:**
  * Pro podnikatele a FO mající příjmy z kapitálového majetku, z pronájmu, ostatní příjmy
  * DPFO včetně přehledů SP a ZP  2 000,00 CZK
  * DPH   	1 500,00 CZK (jedno přiznání, maximálně do rozsahu 50 dokladů)
