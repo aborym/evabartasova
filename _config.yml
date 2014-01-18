@@ -24,26 +24,23 @@ owner:
   google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics: UA-47275589-1   
+google_verify:    0HwTkP05tyAzg5Nb8ULTDpOJ7pEcNxFc4LGZB4Kcc_0
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
-  - title: Articles
-    url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: O mně
+    url: /o-mne/
+  - title: Blog
+    url: /blog/
+  - title: Služby
+    url: /sluzby/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Prague
 future:      true
 pygments:    true
 markdown:    kramdown
