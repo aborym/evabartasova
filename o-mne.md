@@ -4,10 +4,6 @@ permalink: /o-mne/
 title: About the Jekyll Theme
 modified: 2013-01-18
 tags: [ucetnictvi, sluzby, zpracovani dani, finance]
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
 ---
 
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).

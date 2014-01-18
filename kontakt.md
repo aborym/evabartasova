@@ -4,10 +4,6 @@ permalink: /kontakt/
 title: Kontakt
 modified: 2013-01-18
 tags: [ucetnictvi, sluzby, zpracovani dani, finance]
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
 ---
 
 ## Kontakt
