@@ -5,13 +5,20 @@ modified: 2013-01-18
 tags: [ucetnictvi, sluzby, zpracovani dani, finance]
 ---
 
-## Kdo jsem?
+<h2>Kdo jsem?</h2>
 
-
-* Spolehlivá účetní
-* Mám mnohaletou praxi - [LinkedIn](http://www.linkedin.com/pub/eva-bartasov%C3%A1/64/9ba/563) 
-* Ten koho potřebujete!
+<ul>
+<li>Spolehlivá účetní
+<li>Mám mnohaletou praxi - <a href="http://www.linkedin.com/pub/eva-bartasov%C3%A1/64/9ba/563">LinkedIn</a>
+<li>Ten koho potřebujete!
+</ul>
 
 <div markdown="0"><a href="{{ site.url }}/kontakt/" class="btn">Kontaktujte mě</a></div>
 
-## Poslední články na blogu: 
+<h2>Poslední články na blogu:</h2>
+
+<ul class="post-list">
+{% for post in site.posts limit:10 %} 
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d. %m. %Y" }}</time></span></a></article></li>
+{% endfor %}
+</ul>
