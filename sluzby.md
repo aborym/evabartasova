@@ -7,10 +7,6 @@ modified: 2013-01-18
 tags: [ucetnictvi, sluzby, zpracovani dani, finance]
 ---
 
-**Nabízené služby**
-
-## Nabízené služby
-
 1. Zpracování daňového přiznání daně z příjmů fyzických osob, včetně přehledů OSSZ a ZP pro podnikající osoby.
 2. Zpracování daňového přiznání z příjmů fyzických osob (zaměstnanci).
 3. Zpracování daňového přiznání z příjmů fyzických osob (pro osoby mající příjmy z kapitálového majetku, pronájmu či ostatní příjmy).
