@@ -20,4 +20,4 @@ tags: [ucetnictvi, sluzby, zpracovani dani, finance]
 11. Výpomoc na konci roku ve vedení účetnictví, při závěrkových pracích.
 
 
-<div markdown="0"><a href="{{ site.url }}/kontakt/" class="btn">Kontaktujte mně</a></div>
+<div markdown="0"><a href="{{ site.url }}/kontakt/" class="btn">Kontaktujte mě</a></div>

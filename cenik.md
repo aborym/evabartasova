@@ -21,3 +21,5 @@ tags: [ucetnictvi, sluzby, zpracovani dani, finance]
 Smluvní ceny na základě vzájemné dohody.
 
 V případě zájmu o mé služby, prosím, vyplňte objednávkový formulář níže, kontaktuji vás do 2 pracovních dnů. Takto podaná objednávka je nezávazná.
+
+<div markdown="0"><a href="{{ site.url }}/kontakt/" class="btn">Kontaktujte mě</a></div>

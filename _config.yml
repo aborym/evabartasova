@@ -32,8 +32,6 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: O mně
-    url: /o-mne/
   - title: Služby
     url: /sluzby/
   - title: Ceník
