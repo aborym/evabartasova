@@ -9,7 +9,7 @@ tags: [ucetnictvi, sluzby, zpracovani dani, finance]
 #Ing. Eva Bartasová
 
 
-Management firemních financí
+##Management firemních financí
 
 
 IČO: 16125461
