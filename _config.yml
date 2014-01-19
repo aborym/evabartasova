@@ -1,5 +1,5 @@
 title:            Ing. Eva Bartasová 
-description:      Management firemních financí
+description:      Daně, účetnictví, konzultace a školení
 logo:             site-logo.png
 disqus_shortname: 
 search:           false
@@ -32,10 +32,14 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Služby
-    url: /sluzby/
-  - title: Ceník
-    url: /cenik/
+  - title: Úvod
+    url: /
+  - title: Pro podnikatele
+    url: /pro-podnikatele/
+  - title: Pro zaměstnance
+    url: /pro-zamestnance/
+  - title: Školení a konzultace
+    url: /skoleni-a-konzultace/
   - title: Kontakt
     url: /kontakt/
   - title: Blog
