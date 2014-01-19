@@ -7,7 +7,7 @@ modified: 2013-01-19
 tags: [ucetnictvi, sluzby, zpracovani dani, finance, danove priznani, osobni ucetnictvi]
 ---
 
-Živnostníkům i osobám podnikajícím v nezávislé činnosti (umělcům, lékařům, sportovcům atd.) zpracuji:
+Zaměstnancům, kterým přiznání nezajistí zaměstnavatel, zpracuji:
 
 * **Daňové přiznání z příjmů fyzických osob** (i z kapitálového majetku, pronájmu atp.) - 1500 Kč
 * **Daň z nemovitých věcí** - od 2000 Kč
@@ -18,6 +18,6 @@ tags: [ucetnictvi, sluzby, zpracovani dani, finance, danove priznani, osobni uce
 
 **10% sleva za včasnou objednávku** a dodání podkladů měsíc před odevzdáním přiznání.
 
-Připravujete si daňové přiznání sami a jen se potřebujete na něco zeptat? Potřebujete své výstupy zkontrolovat? Není problém, nabízím i [konzultace]({{ site.url }}/konzultace-a-skoleni/).
+Připravujete si daňové přiznání sami a jen se potřebujete na něco zeptat? Potřebujete své výstupy zkontrolovat? Není problém, nabízím i [konzultace]({{ site.url }}/skoleni-a-konzultace/).
 
 <div markdown="0"><a href="{{ site.url }}/kontakt/" class="btn">Kontaktujte mě</a></div>
