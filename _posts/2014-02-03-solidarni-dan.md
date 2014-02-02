@@ -1,16 +1,15 @@
 ---
 layout: post
 title: Platili jste v roce 2013 solidární daň? Zaměstnavatel za vás nezúčtuje zálohy na daň z příjmů
-description: "Pokud jste v roce 2013, jako zaměstnanci, alespoň jeden měsíc vydělali více než 103 tisíc korun, musíte si zařídit zaúčtování daně z příjmu.
+description: "Pokud jste v roce 2013, jako zaměstnanci, alespoň jeden měsíc vydělali více než 103 tisíc korun, musíte si zařídit zaúčtování daně z příjmu."
 modified: 2014-02-03
-category: articles
-tags: [sample post]
+category: dane
 comments: true
 share: true
 ---
 # Platili jste v roce 2013 solidární daň? Zaměstnavatel za vás nezúčtuje zálohy na daň z příjmů
 
-Včera večer mi volala paní Lenka, že neuspěla u svého bývalého zaměstnavatele s požadavkem na **roční zúčtování záloh na daň z příjmů.** Chtěla podepsat růžové prohlášení a tím vše snadno a rychle vyřešit. Namísto toho obdržela Potvrzení o zdanitelných příjmech, povinnost podat Přiznání k dani z příjmů fyzických osob přešla na ni.
+Včera večer mi volala paní Lenka, že neuspěla u svého bývalého zaměstnavatele s požadavkem na **roční zúčtování záloh na daň z příjmů.** Chtěla podepsat růžové prohlášení a tím vše snadno a rychle vyřešit. Namísto toho obdržela Potvrzení o zdanitelných příjmech, povinnost podat **Přiznání k dani z příjmů fyzických osob** přešla na ni.
 
 ## Od roku 2013 je zavedena solidární daň
 
@@ -32,4 +31,4 @@ Jsou to zejména: řídící pracovníci, společníci, jednatelé, členové  s
 ##Platili jste solidární daň?
 Nejpozději do 15. 2. si u zaměstnavatele vyžádejte Potvrzení o zdanitelných příjmech.
 
-Pokud si nebudete vědět rady, jak zpracovat přiznání k dani z příjmu, ozvěte se mi. Ráda vám poradím nebo vše potřebné připravím. Napište na: eva.bartasova@gmail.com.
+Pokud si nebudete vědět rady, jak zpracovat přiznání k dani z příjmu, ozvěte se mi. Ráda vám poradím nebo vše potřebné připravím. Napište na: <eva.bartasova@gmail.com>.
