@@ -7,7 +7,6 @@ category: dane
 comments: true
 share: true
 ---
-# Platili jste v roce 2013 solidární daň? Zaměstnavatel za vás nezúčtuje zálohy na daň z příjmů
 
 Včera večer mi volala paní Lenka, že neuspěla u svého bývalého zaměstnavatele s požadavkem na **roční zúčtování záloh na daň z příjmů.** Chtěla podepsat růžové prohlášení a tím vše snadno a rychle vyřešit. Namísto toho obdržela Potvrzení o zdanitelných příjmech, povinnost podat **Přiznání k dani z příjmů fyzických osob** přešla na ni.
 
@@ -28,7 +27,9 @@ Novinkou v roce 2013 je, že její původní, případně ani nový **zaměstnav
 * **Zaměstnanců** (mají příjmy ze závislé činnosti a funkční požitky) - zaměstnavatel za ně odvádí zálohy na daň z příjmů. Měsíční záloha může, za výše uvedených podmínek, obsahovat i tuto daň.
 Jsou to zejména: řídící pracovníci, společníci, jednatelé, členové  statutárních orgánů s vysokou základní mzdou, s jednorázovými ročními prémiemi či několika-měsíčním odstupným atd.
 * **Podnikatelů** (mají příjmy z podnikání a z jiné samostatné výdělečné činnosti) - sami si odvádí zálohy na daň z příjmů. Solidární daň daného roku zúčtují v ročním Přiznání k dani z příjmů fyzických osob.
-##Platili jste solidární daň?
+
+## Platili jste solidární daň?
+
 Nejpozději do 15. 2. si u zaměstnavatele vyžádejte Potvrzení o zdanitelných příjmech.
 
 Pokud si nebudete vědět rady, jak zpracovat přiznání k dani z příjmu, ozvěte se mi. Ráda vám poradím nebo vše potřebné připravím. Napište na: <eva.bartasova@gmail.com>.
