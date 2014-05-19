@@ -34,8 +34,10 @@ bing_verify:
 links:
   - title: Úvod
     url: /
-  - title: Pro podnikatele
-    url: /pro-podnikatele/
+  - title: Pro firmy
+    url: /pro-firmy/
+  - title: Pro firmy
+    url: /pro-firmy/
   - title: Pro zaměstnance
     url: /pro-zamestnance/
   - title: Školení a konzultace
