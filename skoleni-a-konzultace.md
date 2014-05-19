@@ -20,9 +20,11 @@ Kromě zpracování daňových přiznání pro podnikatele a fyzické osoby nab�
 * Revize vedení účetnictví, daňové evidence či krátkodobá výpomoc - 600 Kč/hod.
 
 ##Účetní program POHODA
-* Konzultaci pro výběr odpovídající řady a varianty systému POHODA ([Stromware](http://www.stormware.cz/), s.r.o.) pro vaše podnikání – zdarma
+* Konzultaci pro výběr odpovídající řady a varianty systému [POHODA](http://www.pohoda.cz/) pro vaše podnikání – zdarma
 * Poskytnutí bezplatné zkušební verze Produktu
 * Prodej zvolené varianty POHODA – sleva 5 % z prodejní ceny výrobce
 * Prvotní nastavení programu POHODA pro zahájení vedení účetnictví nebo daňové evidence – 600 Kč/hod.
+
+<img src="/images/STW_prodejce.png">
 
 <div markdown="0"><a href="{{ site.url }}/kontakt/" class="btn">Kontaktujte mě</a></div>
