@@ -9,11 +9,13 @@ tags: [ucetnictvi, sluzby, zpracovani dani, finance, danove priznani, podnikove 
 
 Společnostem zapsaným v Obchodním rejstříku povedeme účetnictví:
 
-* **Účetnictví a daně pro firmy** v rozsahu do 200 záznamů/měsíc – 4000 Kč/měsíc, nad 200 záznamů 19 Kč/záznam
-* **Vedení daňové evidence** v rozsahu do 200 záznamů/měsíc – 2000 Kč/měsíc, nad 200 záznamů 17 Kč/záznam
+* **Daňové přiznání z příjmů právnických osob** - 3000 Kč
+* **Silniční daň** - od 2000 Kč
+* **Daň z nemovitých věcí** - od 2000 Kč
+* **Přiznání k DPH** - 1000 Kč
+* **Vedení účetnictví** v rozsahu do 200 záznamů/měsíc – 4000 Kč/měsíc, nad 200 záznamů 19 Kč/záznam
 * **Rekonstrukce účetnictví nebo daňové evidence** – výše uvedené + 30 % nebo dle dohody
 * **Účetní závěrka** - 3000 Kč
-* **Závěrka daňové evidence** - 2000 Kč
 
 **Expresní zpracování daňového přiznání** (7 a méně dní do odevzdání) vás bude stát jen o 30 % navíc.
 
