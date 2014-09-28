@@ -9,8 +9,8 @@ tags: [ucetnictvi, sluzby, zpracovani dani, finance, danove priznani, osobni uce
 
 Zaměstnancům, kterým přiznání nezajistí zaměstnavatel, zpracuji:
 
-* **Daňové přiznání z příjmů fyzických osob** (i z kapitálového majetku, pronájmu atp.) - 1500 Kč
-* **Daň z nemovitých věcí** - od 2000 Kč
+* **Daňové přiznání z příjmů fyzických osob** (i z kapitálového majetku, pronájmu atp.) k 1.4. - 1500 Kč
+* **Daň z nemovitých věcí** k 31.1. - od 2000 Kč
 
 
 **Expresní zpracování daňového přiznání** (7 a méně dní do odevzdání) vás bude stát jen o 30 % navíc.

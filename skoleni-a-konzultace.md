@@ -7,12 +7,12 @@ modified: 2014-05-19
 tags: [ucetnictvi, sluzby, zpracovani dani, finance, danove priznani, osobni ucetnictvi, pohoda, ucetni system, konzultace ucetniho systemu]
 ---
 
-Kromě zpracování daňových přiznání pro podnikatele a fyzické osoby nabízím řadu dalších služeb.
+Kromě zpracování daňových přiznání pro podnikatele a fyzické osoby nabízím řadu dalších služeb:
 
 
 ##Individuální školení
 * Vedení daňové evidence, evidence dokladů pro plátce DPH - 600 Kč/hod.
-* Vedení účetnictví nebo daňové evidence v účetním programu Pohoda ([Stromware](http://www.stormware.cz/), s.r.o.) - 600 Kč/hod.
+* Vedení účetnictví nebo daňové evidence v účetním programu POHODA ([STORMWARE](http://www.stormware.cz/), s.r.o.) - 600 Kč/hod.
 
 ##Konzultace
 * Výpomoc se zpracováním daňového přiznání - 600 Kč/hod.
