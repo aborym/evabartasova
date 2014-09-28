@@ -10,6 +10,7 @@ tags: [ucetnictvi, sluzby, zpracovani dani, finance, danove priznani, podnikove 
 Živnostníkům i osobám podnikajícím v nezávislé činnosti (umělcům, lékařům, sportovcům atd.) nabízíme následující služby:
 
 Jednou za rok:
+
 * **Účetní závěrka** - 3000 Kč
 * **Závěrka daňové evidence** - 2000 Kč
 * **Daňové přiznání z příjmů fyzických osob** (i z kapitálového majetku, pronájmu atp.), včetně přehledů sociálního a zdravotního pojištění k 1.4. - 2000 Kč
@@ -18,10 +19,10 @@ Jednou za rok:
 * **Rekonstrukce účetnictví nebo daňové evidence** – výše uvedené + 30 % nebo dle dohody
 
 Měsíčně nebo čtvrtletně:
+
 * **Přiznání k DPH** pokud plátce nevede účetnictví ani daňovou evidenci, a to s omezením do 50 zpracovávaných dokladů měsíčně k 25. dni - 1500 Kč
 * **Vedení účetnictví** v rozsahu do 200 záznamů/měsíc – 4000 Kč/měsíc, nad 200 záznamů 19 Kč/záznam
 * **Vedení daňové evidence** v rozsahu do 200 záznamů/měsíc – 2000 Kč/měsíc, nad 200 záznamů 17 Kč/záznam
-
 
 
 **Expresní zpracování** (7 a méně dní do odevzdání) vás bude stát jen o 30 % navíc.
