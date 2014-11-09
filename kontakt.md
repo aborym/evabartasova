@@ -2,7 +2,7 @@
 layout: page
 permalink: /kontakt/
 title: Kontakt
-modified: 2013-01-18
+modified: 2014-11-09
 tags: [ucetnictvi, sluzby, zpracovani dani, finance]
 ---
 
