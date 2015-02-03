@@ -16,6 +16,7 @@ U svého zaměstnavatele podepsala růžové prohlášení, a tak jí byla strh�
 
 ## Daňové přiznání pro rok 2014
 Do roku 2013 by o peníze skutečně přišla.  Od roku 2014 má možnost sama podat za celý rok daňové přiznání na daň z příjmů:
+
 * Sečte všechny příjmy ze svých aktivit
 * Spočítá daňovou povinnost
 * Využije možnosti snížení základu daně o nezdanitelné částky včetně slev na dani
