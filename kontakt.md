@@ -24,4 +24,4 @@ telefon: +420 603 328 401
 
 Nejsem plátce DPH.
 
-[Logo](/assets/logo.jpg)
+![Logo](/assets/logo.jpg)
