@@ -11,19 +11,19 @@ Společnostem zapsaným v Obchodním rejstříku povedeme účetnictví:
 
 Jednou za rok:
 
-* **Účetní závěrka** k 31.12. - 3000 Kč
-* **Daňové přiznání z příjmů právnických osob** k 1.4. - 3000 Kč
+* **Účetní závěrka** k 31.12. - 4000 Kč
+* **Daňové přiznání z příjmů právnických osob** k 1.4. - 4000 Kč
 * **Silniční daň** k 31.1. - od 2000 Kč
 * **Daň z nemovitých věcí** k 31.1. - od 2000 Kč
 * **Rekonstrukce účetnictví nebo daňové evidence** – výše uvedené + 30 % nebo dle dohody
 
 Měsíčně nebo čtvrtletně:
 
-* **Přiznání k DPH** k 25. dni - 1000 Kč
-* **Vedení účetnictví** v rozsahu do 200 záznamů/měsíc – 4000 Kč/měsíc, nad 200 záznamů 19 Kč/záznam
+* **Přiznání k DPH** k 25. dni - 1500 Kč
+* **Vedení účetnictví** v rozsahu do 200 záznamů/měsíc – 7 000 Kč/měsíc, nad 200 záznamů 30 Kč/záznam (pro ruční zpracování).
+* **Import dat bez ručního zásahu** do zpracování, jen s následnou kontrolou - 500 Kč/import/měsíc.
 
 **Expresní zpracování daňového přiznání** (7 a méně dní do odevzdání) vás bude stát jen o 30 % navíc.
-
 
 **10% sleva za včasnou objednávku** a dodání podkladů měsíc před odevzdáním přiznání.
 

@@ -11,22 +11,21 @@ tags: [ucetnictvi, sluzby, zpracovani dani, finance, danove priznani, podnikove 
 
 Jednou za rok:
 
-* **Účetní závěrka** - 3000 Kč
+* **Účetní závěrka** - 4000 Kč
 * **Závěrka daňové evidence** - 2000 Kč
-* **Daňové přiznání z příjmů fyzických osob** (i z kapitálového majetku, pronájmu atp.), včetně přehledů sociálního a zdravotního pojištění k 1.4. - 2000 Kč
+* **Daňové přiznání z příjmů fyzických osob** (i z kapitálového majetku, pronájmu atp.), včetně přehledů sociálního a zdravotního pojištění k 1.4. - 2500 Kč
 * **Silniční daň** k 31.1.- od 2000 Kč
 * **Daň z nemovitých věcí** k 31.1.- od 2000 Kč
 * **Rekonstrukce účetnictví nebo daňové evidence** – výše uvedené + 30 % nebo dle dohody
 
 Měsíčně nebo čtvrtletně:
 
-* **Přiznání k DPH** pokud plátce nevede účetnictví ani daňovou evidenci, a to s omezením do 50 zpracovávaných dokladů měsíčně k 25. dni - 1500 Kč
-* **Vedení účetnictví** v rozsahu do 200 záznamů/měsíc – 4000 Kč/měsíc, nad 200 záznamů 19 Kč/záznam
-* **Vedení daňové evidence** v rozsahu do 200 záznamů/měsíc – 2000 Kč/měsíc, nad 200 záznamů 17 Kč/záznam
-
+* **Přiznání k DPH** , pokud plátce nevede účetnictví ani daňovou evidenci. U plátců **s měsíčním obdobím** s podáním do 25. dne po ukončení měsíce - zpracování s omezením do 50 zpracovaných dokladů měsíčně – 1 500 Kč, za každý další doklad 20 Kč/doklad. U plátců **se čtvrtletním obdobím** s podáním do 25. dne po ukončení čtvrtletí – zpracování s omezením do 70 zpracovaných dokladů čtvrtletně – 2 500 Kč, za každý další doklad 20 Kč/doklad
+* **Vedení účetnictví** v rozsahu do 200 záznamů/měsíc – 7000 Kč/měsíc, nad 200 záznamů 30 Kč/záznam
+* **Vedení daňové evidence** v rozsahu do 50 záznamů/měsíc – 1 500 Kč/měsíc, do 100 záznamů/měsíc – 2 500 Kč/měsíc, do 200 záznamů/měsíc – 4 000 Kč/měsíc, nad 200 záznamů 20 Kč/záznam
+* **Import dat bez ručního zásahu**  do zpracování, jen s následnou kontrolou - 500 Kč/import/měsíc (platí pro účetnictví i daňovou evidenci).
 
 **Expresní zpracování** (7 a méně dní do odevzdání) vás bude stát jen o 30 % navíc.
-
 
 **10% sleva za včasnou objednávku** a dodání podkladů měsíc před odevzdáním přiznání.
 

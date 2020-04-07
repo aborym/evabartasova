@@ -16,13 +16,12 @@ Kromě zpracování daňových přiznání pro podnikatele a fyzické osoby nab�
 
 ## Konzultace
 * Výpomoc se zpracováním daňového přiznání - 1 000 Kč/hod.
-* Účetní a daňové konzultace, včetně poradenství k vedení daňové evidence - 1 000 Kč/hod.
+* Účetní a daňové konzultace, včetně poradenství k vedení daňové evidence nebo účetnictví - 1 000 Kč/hod.
 * Revize vedení účetnictví, daňové evidence či krátkodobá výpomoc - 1 000 Kč/hod.
 
 ## Účetní program POHODA
 * Konzultaci pro výběr odpovídající řady a varianty systému [POHODA](http://www.pohoda.cz/) pro vaše podnikání – zdarma
 * Poskytnutí bezplatné zkušební verze Produktu
-* Prodej zvolené varianty POHODA – sleva 5 % z prodejní ceny výrobce
 * Prvotní nastavení programu POHODA pro zahájení vedení účetnictví nebo daňové evidence – 1 000 Kč/hod.
 
 <img src="/images/STW_prodejce.png">
