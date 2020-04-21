@@ -15,7 +15,7 @@ Jednou za rok:
 * **Daňové přiznání z příjmů právnických osob** k 1.4. - 4000 Kč
 * **Silniční daň** k 31.1. - od 2000 Kč
 * **Daň z nemovitých věcí** k 31.1. - od 2000 Kč
-* **Rekonstrukce účetnictví nebo daňové evidence** – výše uvedené + 30 % nebo dle dohody
+* **Rekonstrukce účetnictví** – výše uvedené + 30 % nebo dle dohody
 
 Měsíčně nebo čtvrtletně:
 
@@ -31,6 +31,6 @@ Měsíčně nebo čtvrtletně:
  
 Osobní převzetí dokladů **v Praze zdarma**. Ostatní regiony – 8 Kč/km.
 
-Vedete si účetnictví jen se chcete na něco zeptat? Potřebujete své výstupy zkontrolovat? Ozvěte se, nabízím i [konzultace]({{ site.url }}/skoleni-a-konzultace/).
+Vedete si účetnictví a jen se chcete na něco zeptat? Potřebujete své výstupy zkontrolovat? Ozvěte se, nabízím i [konzultace]({{ site.url }}/skoleni-a-konzultace/).
 
 <div markdown="0"><a href="{{ site.url }}/kontakt/" class="btn">Kontaktujte mě</a></div>

@@ -33,6 +33,6 @@ Měsíčně nebo čtvrtletně:
  
 Osobní převzetí dokladů **v Praze zdarma**. Ostatní regiony – 8 Kč/km.
 
-Vedete si účetnictví jen se chcete na něco zeptat? Potřebujete své výstupy zkontrolovat? Ozvěte se, nabízím i [konzultace]({{ site.url }}/skoleni-a-konzultace/).
+Vedete si účetnictví nebo daňovou evidenci a jen se chcete na něco zeptat? Potřebujete své výstupy zkontrolovat? Ozvěte se, nabízím i [konzultace]({{ site.url }}/skoleni-a-konzultace/).
 
 <div markdown="0"><a href="{{ site.url }}/kontakt/" class="btn">Kontaktujte mě</a></div>
