@@ -3,14 +3,14 @@ layout: page
 permalink: /pro-zamestnance/
 title: Daňová přiznání pro zaměstnance
 description: "Daňová přiznání a účetní služby pro zaměstnance"
-modified: 2013-01-19
+modified: 2023-01-26
 tags: [ucetnictvi, sluzby, zpracovani dani, finance, danove priznani, osobni ucetnictvi]
 ---
 
 Zaměstnancům, kterým přiznání nezajistí zaměstnavatel, zpracuji:
 
-* **Daňové přiznání z příjmů fyzických osob** (i z kapitálového majetku, pronájmu atp.) k 1.4. - 2000 Kč
-* **Daň z nemovitých věcí** k 31.1. - od 2000 Kč
+* **Daňové přiznání z příjmů fyzických osob** (i z kapitálového majetku, pronájmu atp.) k 1.4. - 2500 Kč
+* **Daň z nemovitých věcí** k 31.1. - od 3000 Kč
 
 
 **Expresní zpracování daňového přiznání** (7 a méně dní do odevzdání) vás bude stát jen o 30 % navíc.
